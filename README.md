@@ -28,3 +28,7 @@ For the **backend**, I used **Node.js** with **Express.js** to handle the server
 
 This project helped me understand how real-time messaging works, how to manage server and client connections, and how to create interactive user interfaces.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/adc57a8b-5ed5-4f6f-a19d-c00157cf334a)
+
